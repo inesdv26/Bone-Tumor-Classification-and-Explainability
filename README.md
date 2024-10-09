@@ -22,7 +22,7 @@ The goal of this project is to leverage a Deep Learning model to classify two ty
 
 Install dependencies by running:
 
-(pip install -r requirements.txt)
+(...pip install -r requirements.txt...)
 
 ## Contact
 
