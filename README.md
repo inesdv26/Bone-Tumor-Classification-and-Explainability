@@ -36,7 +36,8 @@ This project is licensed under the MIT License.
 
 # Acknowledgments
 
-This thesis was completed with the support of the Chair for AI in Medicine at the Technical University of Munich and the Department of Orthopaedics and Sports Orthopaedics at the Klinikum rechts der Isar.
+This thesis was completed with the support of the [Lab for AI in Medicine](https://aim-lab.io/) at the Technical University of Munich and the [Department of Orthopaedics and Sports Orthopaedics](https://ortho.mri.tum.de/clinic.html) at the Klinikum rechts der Isar.
+
 
 # Data Privacy and Usage
 
